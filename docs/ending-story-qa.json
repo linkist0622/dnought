@@ -1,0 +1,3066 @@
+{
+  "date": "2026-09-20",
+  "method": "Chrome actual browser; same-origin iframe viewport sizes. No physical mobile devices or Safari test.",
+  "notes": [
+    "Investigation records capture issues found before fixes or initial loading; they are not final passes.",
+    "1366x650 final: all six stages fit; people max 371px within 418px, closing max 394px within 416px.",
+    "Resize preserves the current scene; later explicit navigation, wheel, touch, or scroll keys cancel that restore.",
+    "ReadingThread observes geometry; the scene controller schedules full refresh after scrolling settles.",
+    "Reduced motion was tested with the in-page switch. OS-level setting was not changed.",
+    "No performance score measured. Temporary QA HTML is excluded from deployment."
+  ],
+  "records": [
+    {
+      "label": "desktop-people-first",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 501,
+              "width": 1200
+            },
+            {
+              "height": 476,
+              "width": 1200
+            }
+          ],
+          "top": -12359,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 301,
+              "width": 1200
+            },
+            {
+              "height": 407,
+              "width": 1200
+            }
+          ],
+          "top": -10016,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 337,
+              "width": 1200
+            },
+            {
+              "height": 337,
+              "width": 1200
+            }
+          ],
+          "top": -6359,
+          "window": 716
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            }
+          ],
+          "top": -1353,
+          "window": 716
+        },
+        {
+          "current": "1",
+          "kind": "people",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 399,
+              "width": 1080
+            },
+            {
+              "height": 484,
+              "width": 1080
+            }
+          ],
+          "top": 96,
+          "window": 704
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 454,
+              "width": 1078
+            },
+            {
+              "height": 401,
+              "width": 1078
+            }
+          ],
+          "top": 3643,
+          "window": 702
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 13507,
+      "status": "ready",
+      "thread": "0.8149",
+      "viewport": [
+        1440,
+        936
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "desktop-people-second",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 501,
+              "width": 1200
+            },
+            {
+              "height": 476,
+              "width": 1200
+            }
+          ],
+          "top": -13148,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 301,
+              "width": 1200
+            },
+            {
+              "height": 407,
+              "width": 1200
+            }
+          ],
+          "top": -10805,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 337,
+              "width": 1200
+            },
+            {
+              "height": 337,
+              "width": 1200
+            }
+          ],
+          "top": -7148,
+          "window": 716
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            }
+          ],
+          "top": -2142,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 399,
+              "width": 1080
+            },
+            {
+              "height": 484,
+              "width": 1080
+            }
+          ],
+          "top": 96,
+          "window": 704
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 454,
+              "width": 1078
+            },
+            {
+              "height": 401,
+              "width": 1078
+            }
+          ],
+          "top": 2854,
+          "window": 702
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 14296,
+      "status": "ready",
+      "thread": "0.8608",
+      "viewport": [
+        1440,
+        936
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "desktop-people-reverse",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 501,
+              "width": 1200
+            },
+            {
+              "height": 476,
+              "width": 1200
+            }
+          ],
+          "top": -12359,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 301,
+              "width": 1200
+            },
+            {
+              "height": 407,
+              "width": 1200
+            }
+          ],
+          "top": -10016,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 337,
+              "width": 1200
+            },
+            {
+              "height": 337,
+              "width": 1200
+            }
+          ],
+          "top": -6359,
+          "window": 716
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            }
+          ],
+          "top": -1353,
+          "window": 716
+        },
+        {
+          "current": "1",
+          "kind": "people",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 399,
+              "width": 1080
+            },
+            {
+              "height": 484,
+              "width": 1080
+            }
+          ],
+          "top": 96,
+          "window": 704
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 454,
+              "width": 1078
+            },
+            {
+              "height": 401,
+              "width": 1078
+            }
+          ],
+          "top": 3643,
+          "window": 702
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 13507,
+      "status": "ready",
+      "thread": "0.8149",
+      "viewport": [
+        1440,
+        936
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "desktop-contact-first",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 501,
+              "width": 1200
+            },
+            {
+              "height": 476,
+              "width": 1200
+            }
+          ],
+          "top": -16142,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 301,
+              "width": 1200
+            },
+            {
+              "height": 407,
+              "width": 1200
+            }
+          ],
+          "top": -13799,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 337,
+              "width": 1200
+            },
+            {
+              "height": 337,
+              "width": 1200
+            }
+          ],
+          "top": -10142,
+          "window": 716
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            }
+          ],
+          "top": -5136,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 399,
+              "width": 1080
+            },
+            {
+              "height": 484,
+              "width": 1080
+            }
+          ],
+          "top": -2543,
+          "window": 704
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 454,
+              "width": 1078
+            },
+            {
+              "height": 401,
+              "width": 1078
+            }
+          ],
+          "top": 96,
+          "window": 702
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 17290,
+      "status": "ready",
+      "thread": "1.0000",
+      "viewport": [
+        1440,
+        936
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "desktop-contact-second",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 501,
+              "width": 1200
+            },
+            {
+              "height": 476,
+              "width": 1200
+            }
+          ],
+          "top": -16930,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 301,
+              "width": 1200
+            },
+            {
+              "height": 407,
+              "width": 1200
+            }
+          ],
+          "top": -14587,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 337,
+              "width": 1200
+            },
+            {
+              "height": 337,
+              "width": 1200
+            }
+          ],
+          "top": -10930,
+          "window": 716
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            }
+          ],
+          "top": -5924,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 399,
+              "width": 1080
+            },
+            {
+              "height": 484,
+              "width": 1080
+            }
+          ],
+          "top": -3331,
+          "window": 704
+        },
+        {
+          "current": "2",
+          "kind": "closing",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 454,
+              "width": 1078
+            },
+            {
+              "height": 401,
+              "width": 1078
+            }
+          ],
+          "top": 96,
+          "window": 702
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 18078,
+      "status": "ready",
+      "thread": "1.0000",
+      "viewport": [
+        1440,
+        936
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "desktop-footer-complete",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 501,
+              "width": 1200
+            },
+            {
+              "height": 476,
+              "width": 1200
+            }
+          ],
+          "top": -17984,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 301,
+              "width": 1200
+            },
+            {
+              "height": 407,
+              "width": 1200
+            }
+          ],
+          "top": -15641,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 337,
+              "width": 1200
+            },
+            {
+              "height": 337,
+              "width": 1200
+            }
+          ],
+          "top": -11984,
+          "window": 716
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            },
+            {
+              "height": 482,
+              "width": 1200
+            }
+          ],
+          "top": -6978,
+          "window": 716
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 399,
+              "width": 1080
+            },
+            {
+              "height": 484,
+              "width": 1080
+            }
+          ],
+          "top": -4385,
+          "window": 704
+        },
+        {
+          "current": "2",
+          "kind": "closing",
+          "mode": "pinned",
+          "pages": [
+            {
+              "height": 454,
+              "width": 1078
+            },
+            {
+              "height": 401,
+              "width": 1078
+            }
+          ],
+          "top": -604,
+          "window": 702
+        }
+      ],
+      "footer": {
+        "clip": "inset(0%)",
+        "opacity": "1"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 19132,
+      "status": "ready",
+      "thread": "1.0000",
+      "viewport": [
+        1440,
+        936
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "mobile-people-first",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 353,
+              "width": 327
+            },
+            {
+              "height": 369,
+              "width": 327
+            }
+          ],
+          "top": -11535,
+          "window": 656
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 355,
+              "width": 327
+            },
+            {
+              "height": 384,
+              "width": 327
+            }
+          ],
+          "top": -9461,
+          "window": 656
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 405,
+              "width": 327
+            },
+            {
+              "height": 405,
+              "width": 327
+            }
+          ],
+          "top": -5697,
+          "window": 656
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 583,
+              "width": 327
+            },
+            {
+              "height": 541,
+              "width": 327
+            },
+            {
+              "height": 560,
+              "width": 327
+            },
+            {
+              "height": 560,
+              "width": 327
+            },
+            {
+              "height": 541,
+              "width": 327
+            }
+          ],
+          "top": -1233,
+          "window": 613
+        },
+        {
+          "current": "1",
+          "kind": "people",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 308,
+              "width": 283
+            },
+            {
+              "height": 331,
+              "width": 283
+            }
+          ],
+          "top": 80,
+          "window": 640
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 389,
+              "width": 281
+            },
+            {
+              "height": 468,
+              "width": 281
+            }
+          ],
+          "top": 4374,
+          "window": 638
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 12572,
+      "status": "ready",
+      "thread": "0.6667",
+      "viewport": [
+        390,
+        844
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "mobile-people-second",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 353,
+              "width": 327
+            },
+            {
+              "height": 369,
+              "width": 327
+            }
+          ],
+          "top": -12254,
+          "window": 656
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 355,
+              "width": 327
+            },
+            {
+              "height": 384,
+              "width": 327
+            }
+          ],
+          "top": -10180,
+          "window": 656
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 405,
+              "width": 327
+            },
+            {
+              "height": 405,
+              "width": 327
+            }
+          ],
+          "top": -6416,
+          "window": 656
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 583,
+              "width": 327
+            },
+            {
+              "height": 541,
+              "width": 327
+            },
+            {
+              "height": 560,
+              "width": 327
+            },
+            {
+              "height": 560,
+              "width": 327
+            },
+            {
+              "height": 541,
+              "width": 327
+            }
+          ],
+          "top": -1952,
+          "window": 613
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 308,
+              "width": 283
+            },
+            {
+              "height": 331,
+              "width": 283
+            }
+          ],
+          "top": 80,
+          "window": 640
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 389,
+              "width": 281
+            },
+            {
+              "height": 468,
+              "width": 281
+            }
+          ],
+          "top": 3655,
+          "window": 638
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 13291,
+      "status": "ready",
+      "thread": "0.6667",
+      "viewport": [
+        390,
+        844
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "mobile-contact-first",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 353,
+              "width": 327
+            },
+            {
+              "height": 369,
+              "width": 327
+            }
+          ],
+          "top": -16044,
+          "window": 656
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 355,
+              "width": 327
+            },
+            {
+              "height": 384,
+              "width": 327
+            }
+          ],
+          "top": -13970,
+          "window": 656
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 405,
+              "width": 327
+            },
+            {
+              "height": 405,
+              "width": 327
+            }
+          ],
+          "top": -10206,
+          "window": 656
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 583,
+              "width": 327
+            },
+            {
+              "height": 541,
+              "width": 327
+            },
+            {
+              "height": 560,
+              "width": 327
+            },
+            {
+              "height": 560,
+              "width": 327
+            },
+            {
+              "height": 541,
+              "width": 327
+            }
+          ],
+          "top": -5742,
+          "window": 613
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 308,
+              "width": 283
+            },
+            {
+              "height": 331,
+              "width": 283
+            }
+          ],
+          "top": -3387,
+          "window": 640
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 389,
+              "width": 281
+            },
+            {
+              "height": 468,
+              "width": 281
+            }
+          ],
+          "top": 80,
+          "window": 638
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 17081,
+      "status": "ready",
+      "thread": "1.0000",
+      "viewport": [
+        390,
+        844
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "mobile-contact-second",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 353,
+              "width": 327
+            },
+            {
+              "height": 369,
+              "width": 327
+            }
+          ],
+          "top": -16760,
+          "window": 656
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 355,
+              "width": 327
+            },
+            {
+              "height": 384,
+              "width": 327
+            }
+          ],
+          "top": -14686,
+          "window": 656
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 405,
+              "width": 327
+            },
+            {
+              "height": 405,
+              "width": 327
+            }
+          ],
+          "top": -10922,
+          "window": 656
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 583,
+              "width": 327
+            },
+            {
+              "height": 541,
+              "width": 327
+            },
+            {
+              "height": 560,
+              "width": 327
+            },
+            {
+              "height": 560,
+              "width": 327
+            },
+            {
+              "height": 541,
+              "width": 327
+            }
+          ],
+          "top": -6458,
+          "window": 613
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 308,
+              "width": 283
+            },
+            {
+              "height": 331,
+              "width": 283
+            }
+          ],
+          "top": -4103,
+          "window": 640
+        },
+        {
+          "current": "2",
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 389,
+              "width": 281
+            },
+            {
+              "height": 468,
+              "width": 281
+            }
+          ],
+          "top": 80,
+          "window": 638
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 17797,
+      "status": "ready",
+      "thread": "1.0000",
+      "viewport": [
+        390,
+        844
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "mobile-short-contact-second",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 353,
+              "width": 327
+            },
+            {
+              "height": 369,
+              "width": 327
+            }
+          ],
+          "top": -7736,
+          "window": 512
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 355,
+              "width": 327
+            },
+            {
+              "height": 384,
+              "width": 327
+            }
+          ],
+          "top": -6048,
+          "window": 512
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 405,
+              "width": 327
+            },
+            {
+              "height": 405,
+              "width": 327
+            }
+          ],
+          "top": -2670,
+          "window": 512
+        },
+        {
+          "current": "4",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 436,
+              "width": 327
+            },
+            {
+              "height": 394,
+              "width": 327
+            },
+            {
+              "height": 413,
+              "width": 327
+            },
+            {
+              "height": 413,
+              "width": 327
+            },
+            {
+              "height": 412,
+              "width": 327
+            }
+          ],
+          "top": 80,
+          "window": 469
+        },
+        {
+          "current": "1",
+          "kind": "people",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 304,
+              "width": 283
+            },
+            {
+              "height": 327,
+              "width": 283
+            }
+          ],
+          "top": 1947,
+          "window": 496
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 389,
+              "width": 281
+            },
+            {
+              "height": 436,
+              "width": 281
+            }
+          ],
+          "top": 6070,
+          "window": 494
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 8589,
+      "status": "ready",
+      "thread": "0.5556",
+      "viewport": [
+        390,
+        700
+      ],
+      "phase": "investigation"
+    },
+    {
+      "label": "mobile-short-contact-first",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 353,
+              "width": 327
+            },
+            {
+              "height": 369,
+              "width": 327
+            }
+          ],
+          "top": -13899,
+          "window": 512
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 355,
+              "width": 327
+            },
+            {
+              "height": 384,
+              "width": 327
+            }
+          ],
+          "top": -12211,
+          "window": 512
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 405,
+              "width": 327
+            },
+            {
+              "height": 405,
+              "width": 327
+            }
+          ],
+          "top": -8833,
+          "window": 512
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 436,
+              "width": 327
+            },
+            {
+              "height": 394,
+              "width": 327
+            },
+            {
+              "height": 413,
+              "width": 327
+            },
+            {
+              "height": 413,
+              "width": 327
+            },
+            {
+              "height": 412,
+              "width": 327
+            }
+          ],
+          "top": -5170,
+          "window": 469
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 304,
+              "width": 283
+            },
+            {
+              "height": 327,
+              "width": 283
+            }
+          ],
+          "top": -3201,
+          "window": 496
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 389,
+              "width": 281
+            },
+            {
+              "height": 436,
+              "width": 281
+            }
+          ],
+          "top": 80,
+          "window": 494
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 14752,
+      "status": "ready",
+      "thread": "1.0000",
+      "viewport": [
+        390,
+        700
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "mobile-short-contact-second-corrected",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 353,
+              "width": 327
+            },
+            {
+              "height": 369,
+              "width": 327
+            }
+          ],
+          "top": -14477,
+          "window": 512
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 355,
+              "width": 327
+            },
+            {
+              "height": 384,
+              "width": 327
+            }
+          ],
+          "top": -12789,
+          "window": 512
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 405,
+              "width": 327
+            },
+            {
+              "height": 405,
+              "width": 327
+            }
+          ],
+          "top": -9411,
+          "window": 512
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 436,
+              "width": 327
+            },
+            {
+              "height": 394,
+              "width": 327
+            },
+            {
+              "height": 413,
+              "width": 327
+            },
+            {
+              "height": 413,
+              "width": 327
+            },
+            {
+              "height": 412,
+              "width": 327
+            }
+          ],
+          "top": -5748,
+          "window": 469
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 304,
+              "width": 283
+            },
+            {
+              "height": 327,
+              "width": 283
+            }
+          ],
+          "top": -3779,
+          "window": 496
+        },
+        {
+          "current": "2",
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 389,
+              "width": 281
+            },
+            {
+              "height": 436,
+              "width": 281
+            }
+          ],
+          "top": 80,
+          "window": 494
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 15330,
+      "status": "ready",
+      "thread": "1.0000",
+      "viewport": [
+        390,
+        700
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "tablet-resize-keeps-closing-second",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 418,
+              "width": 661
+            },
+            {
+              "height": 422,
+              "width": 661
+            }
+          ],
+          "top": -17381,
+          "window": 722
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 287,
+              "width": 661
+            },
+            {
+              "height": 365,
+              "width": 661
+            }
+          ],
+          "top": -15022,
+          "window": 722
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 264,
+              "width": 661
+            },
+            {
+              "height": 296,
+              "width": 661
+            }
+          ],
+          "top": -11101,
+          "window": 722
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            }
+          ],
+          "top": -6171,
+          "window": 721
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 338,
+              "width": 595
+            },
+            {
+              "height": 423,
+              "width": 595
+            }
+          ],
+          "top": -3581,
+          "window": 710
+        },
+        {
+          "current": "2",
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 368,
+              "width": 593
+            },
+            {
+              "height": 371,
+              "width": 593
+            }
+          ],
+          "top": 90,
+          "window": 708
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 18537,
+      "status": "ready",
+      "thread": "1.0000",
+      "viewport": [
+        768,
+        936
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "tablet-reverse-closing-first",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 418,
+              "width": 661
+            },
+            {
+              "height": 422,
+              "width": 661
+            }
+          ],
+          "top": -16681,
+          "window": 722
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 287,
+              "width": 661
+            },
+            {
+              "height": 365,
+              "width": 661
+            }
+          ],
+          "top": -14322,
+          "window": 722
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 264,
+              "width": 661
+            },
+            {
+              "height": 296,
+              "width": 661
+            }
+          ],
+          "top": -10401,
+          "window": 722
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            }
+          ],
+          "top": -5471,
+          "window": 721
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 338,
+              "width": 595
+            },
+            {
+              "height": 423,
+              "width": 595
+            }
+          ],
+          "top": -2881,
+          "window": 710
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 368,
+              "width": 593
+            },
+            {
+              "height": 371,
+              "width": 593
+            }
+          ],
+          "top": 90,
+          "window": 708
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 17837,
+      "status": "ready",
+      "thread": "1.0000",
+      "viewport": [
+        768,
+        936
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "tablet-reduced-motion",
+      "books": [
+        {
+          "kind": "opening",
+          "pages": [
+            {
+              "height": 608,
+              "width": 661
+            },
+            {
+              "height": 608,
+              "width": 661
+            }
+          ],
+          "top": -10800,
+          "window": 1317
+        },
+        {
+          "kind": "philosophy",
+          "pages": [
+            {
+              "height": 374,
+              "width": 661
+            },
+            {
+              "height": 410,
+              "width": 661
+            }
+          ],
+          "top": -9261,
+          "window": 854
+        },
+        {
+          "kind": "approach",
+          "pages": [
+            {
+              "height": 350,
+              "width": 661
+            },
+            {
+              "height": 350,
+              "width": 661
+            }
+          ],
+          "top": -6649,
+          "window": 770
+        },
+        {
+          "kind": "projects",
+          "pages": [
+            {
+              "height": 383,
+              "width": 661
+            },
+            {
+              "height": 383,
+              "width": 661
+            },
+            {
+              "height": 383,
+              "width": 661
+            },
+            {
+              "height": 383,
+              "width": 661
+            },
+            {
+              "height": 383,
+              "width": 661
+            }
+          ],
+          "top": -5472,
+          "window": 2194
+        },
+        {
+          "kind": "people",
+          "pages": [
+            {
+              "height": 428,
+              "width": 595
+            },
+            {
+              "height": 513,
+              "width": 595
+            }
+          ],
+          "top": -2800,
+          "window": 1011
+        },
+        {
+          "kind": "closing",
+          "pages": [
+            {
+              "height": 458,
+              "width": 593
+            },
+            {
+              "height": 421,
+              "width": 593
+            }
+          ],
+          "top": 80,
+          "window": 949
+        }
+      ],
+      "footer": {
+        "clip": "none",
+        "opacity": "1"
+      },
+      "images": true,
+      "inert": 0,
+      "overflow": 0,
+      "scroll": 10896,
+      "status": "reduced-motion",
+      "thread": "1.0000",
+      "viewport": [
+        768,
+        936
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "tablet-motion-resumed",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 418,
+              "width": 661
+            },
+            {
+              "height": 422,
+              "width": 661
+            }
+          ],
+          "top": -16588,
+          "window": 722
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 287,
+              "width": 661
+            },
+            {
+              "height": 365,
+              "width": 661
+            }
+          ],
+          "top": -14229,
+          "window": 722
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 264,
+              "width": 661
+            },
+            {
+              "height": 296,
+              "width": 661
+            }
+          ],
+          "top": -10308,
+          "window": 722
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            },
+            {
+              "height": 348,
+              "width": 661
+            }
+          ],
+          "top": -5378,
+          "window": 721
+        },
+        {
+          "current": "2",
+          "kind": "people",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 338,
+              "width": 595
+            },
+            {
+              "height": 423,
+              "width": 595
+            }
+          ],
+          "top": -2788,
+          "window": 710
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 368,
+              "width": 593
+            },
+            {
+              "height": 371,
+              "width": 593
+            }
+          ],
+          "top": 90,
+          "window": 708
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 17744,
+      "status": "ready",
+      "thread": "1.0000",
+      "viewport": [
+        768,
+        936
+      ],
+      "phase": "verification"
+    },
+    {
+      "label": "low-desktop-fit-check",
+      "books": [
+        {
+          "current": "2",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 418,
+              "width": 1138
+            },
+            {
+              "height": 422,
+              "width": 1138
+            }
+          ],
+          "top": -11509,
+          "window": 430
+        },
+        {
+          "current": "2",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 220,
+              "width": 1138
+            },
+            {
+              "height": 298,
+              "width": 1138
+            }
+          ],
+          "top": -9933,
+          "window": 430
+        },
+        {
+          "current": "2",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 247,
+              "width": 1138
+            },
+            {
+              "height": 247,
+              "width": 1138
+            }
+          ],
+          "top": -7047,
+          "window": 430
+        },
+        {
+          "current": "5",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            }
+          ],
+          "top": -3635,
+          "window": 430
+        },
+        {
+          "kind": "people",
+          "mode": "flow-content-overflow",
+          "pages": [
+            {
+              "height": 479,
+              "width": 1024
+            },
+            {
+              "height": 564,
+              "width": 1024
+            }
+          ],
+          "top": -2713,
+          "window": 1107
+        },
+        {
+          "kind": "closing",
+          "mode": "flow-content-overflow",
+          "pages": [
+            {
+              "height": 534,
+              "width": 1022
+            },
+            {
+              "height": 451,
+              "width": 1022
+            }
+          ],
+          "top": 65,
+          "window": 1050
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": true,
+      "inert": 7,
+      "overflow": 0,
+      "scroll": 12291,
+      "status": "ready",
+      "thread": "1.0000",
+      "viewport": [
+        1366,
+        650
+      ],
+      "phase": "investigation"
+    },
+    {
+      "label": "final-low-desktop-contact-first",
+      "books": [
+        {
+          "current": "1",
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 418,
+              "width": 1138
+            },
+            {
+              "height": 422,
+              "width": 1138
+            }
+          ],
+          "top": 96,
+          "window": 430
+        },
+        {
+          "current": "1",
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 220,
+              "width": 1138
+            },
+            {
+              "height": 298,
+              "width": 1138
+            }
+          ],
+          "top": 1458,
+          "window": 430
+        },
+        {
+          "current": "1",
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 247,
+              "width": 1138
+            },
+            {
+              "height": 247,
+              "width": 1138
+            }
+          ],
+          "top": 4344,
+          "window": 430
+        },
+        {
+          "current": "1",
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            }
+          ],
+          "top": 6212,
+          "window": 430
+        },
+        {
+          "current": "1",
+          "kind": "people",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 298,
+              "width": 1024
+            },
+            {
+              "height": 371,
+              "width": 1024
+            }
+          ],
+          "top": 9578,
+          "window": 418
+        },
+        {
+          "current": "1",
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "pages": [
+            {
+              "height": 369,
+              "width": 1022
+            },
+            {
+              "height": 394,
+              "width": 1022
+            }
+          ],
+          "top": 12628,
+          "window": 416
+        }
+      ],
+      "footer": {
+        "clip": "inset(0% 0% 85%)",
+        "opacity": "0.2"
+      },
+      "images": false,
+      "inert": 9,
+      "overflow": 0,
+      "scroll": 0,
+      "status": "ready",
+      "thread": "0.0197",
+      "viewport": [
+        1366,
+        650
+      ],
+      "phase": "investigation"
+    },
+    {
+      "label": "final-low-contact-after-settled",
+      "viewport": [
+        1366,
+        650
+      ],
+      "scroll": 12686,
+      "height": 14767,
+      "overflow": 0,
+      "status": "ready",
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -11903.9990234375,
+          "window": 430,
+          "pages": [
+            {
+              "height": 418,
+              "width": 1138
+            },
+            {
+              "height": 422,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -10328,
+          "window": 430,
+          "pages": [
+            {
+              "height": 220,
+              "width": 1138
+            },
+            {
+              "height": 298,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -7441.984375,
+          "window": 430,
+          "pages": [
+            {
+              "height": 247,
+              "width": 1138
+            },
+            {
+              "height": 247,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "5",
+          "top": -4030.46875,
+          "window": 430,
+          "pages": [
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -2207.953125,
+          "window": 418,
+          "pages": [
+            {
+              "height": 298,
+              "width": 1024
+            },
+            {
+              "height": 371,
+              "width": 1024
+            }
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 96.234375,
+          "window": 416,
+          "pages": [
+            {
+              "height": 369,
+              "width": 1022
+            },
+            {
+              "height": 394,
+              "width": 1022
+            }
+          ]
+        }
+      ],
+      "footer": "0.2",
+      "inert": 9,
+      "phase": "verification"
+    },
+    {
+      "label": "final-low-contact-second",
+      "viewport": [
+        1366,
+        650
+      ],
+      "scroll": 13198,
+      "height": 14767,
+      "overflow": 0,
+      "status": "ready",
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -12415.9990234375,
+          "window": 430,
+          "pages": [
+            {
+              "height": 418,
+              "width": 1138
+            },
+            {
+              "height": 422,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -10840,
+          "window": 430,
+          "pages": [
+            {
+              "height": 220,
+              "width": 1138
+            },
+            {
+              "height": 298,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -7953.984375,
+          "window": 430,
+          "pages": [
+            {
+              "height": 247,
+              "width": 1138
+            },
+            {
+              "height": 247,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "5",
+          "top": -4542.46875,
+          "window": 430,
+          "pages": [
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -2719.953125,
+          "window": 418,
+          "pages": [
+            {
+              "height": 298,
+              "width": 1024
+            },
+            {
+              "height": 371,
+              "width": 1024
+            }
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": 96.234375,
+          "window": 416,
+          "pages": [
+            {
+              "height": 369,
+              "width": 1022
+            },
+            {
+              "height": 394,
+              "width": 1022
+            }
+          ]
+        }
+      ],
+      "footer": "0.2",
+      "inert": 9,
+      "phase": "verification"
+    },
+    {
+      "label": "final-reload-contact",
+      "viewport": [
+        1366,
+        650
+      ],
+      "scroll": 7299,
+      "height": 14767,
+      "overflow": 0,
+      "status": "ready",
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -6516.9990234375,
+          "window": 430,
+          "pages": [
+            {
+              "height": 418,
+              "width": 1138
+            },
+            {
+              "height": 422,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -4941,
+          "window": 430,
+          "pages": [
+            {
+              "height": 220,
+              "width": 1138
+            },
+            {
+              "height": 298,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -2054.984375,
+          "window": 430,
+          "pages": [
+            {
+              "height": 247,
+              "width": 1138
+            },
+            {
+              "height": 247,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "3",
+          "top": 95.53125,
+          "window": 430,
+          "pages": [
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 2279.046875,
+          "window": 418,
+          "pages": [
+            {
+              "height": 298,
+              "width": 1024
+            },
+            {
+              "height": 371,
+              "width": 1024
+            }
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 5329.234375,
+          "window": 416,
+          "pages": [
+            {
+              "height": 369,
+              "width": 1022
+            },
+            {
+              "height": 394,
+              "width": 1022
+            }
+          ]
+        }
+      ],
+      "footer": "0.2",
+      "inert": 9,
+      "phase": "investigation"
+    },
+    {
+      "label": "final-reload-contact-confirmed",
+      "viewport": [
+        1366,
+        650
+      ],
+      "scroll": 12686,
+      "height": 14767,
+      "overflow": 0,
+      "status": "ready",
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -11903.9990234375,
+          "window": 430,
+          "pages": [
+            {
+              "height": 418,
+              "width": 1138
+            },
+            {
+              "height": 422,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -10328,
+          "window": 430,
+          "pages": [
+            {
+              "height": 220,
+              "width": 1138
+            },
+            {
+              "height": 298,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -7441.984375,
+          "window": 430,
+          "pages": [
+            {
+              "height": 247,
+              "width": 1138
+            },
+            {
+              "height": 247,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "5",
+          "top": -4030.46875,
+          "window": 430,
+          "pages": [
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            },
+            {
+              "height": 390,
+              "width": 1138
+            }
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -2207.953125,
+          "window": 418,
+          "pages": [
+            {
+              "height": 298,
+              "width": 1024
+            },
+            {
+              "height": 371,
+              "width": 1024
+            }
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 96.234375,
+          "window": 416,
+          "pages": [
+            {
+              "height": 369,
+              "width": 1022
+            },
+            {
+              "height": 394,
+              "width": 1022
+            }
+          ]
+        }
+      ],
+      "footer": "0.2",
+      "inert": 9,
+      "phase": "verification"
+    }
+  ]
+}

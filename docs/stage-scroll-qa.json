@@ -1,0 +1,1179 @@
+{
+  "date": "2026-09-20",
+  "browser": "Chrome cloud browser; iframe viewport sizes, not physical devices",
+  "observations": [
+    {
+      "label": "1440 vision",
+      "width": 1440,
+      "height": 936,
+      "y": 1155,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "1",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 301
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "1",
+          "top": 3439,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "1",
+          "top": 5969,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1440 mission",
+      "width": 1440,
+      "height": 936,
+      "y": 1919,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "2",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 407
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "1",
+          "top": 2675,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "1",
+          "top": 5205,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1440 reverse transition",
+      "width": 1440,
+      "height": 936,
+      "y": 1569,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "1",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "0.1306",
+              "height": 301
+            },
+            {
+              "page": "1",
+              "opacity": "0.4173",
+              "height": 407
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "1",
+          "top": 3025,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "1",
+          "top": 5555,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1440 reverse vision",
+      "width": 1440,
+      "height": 936,
+      "y": 1219,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "1",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 301
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "1",
+          "top": 3375,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "1",
+          "top": 5905,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1440 knowledge",
+      "width": 1440,
+      "height": 936,
+      "y": 4703,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "2",
+          "top": -2371,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 407
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "1",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "1",
+          "top": 2421,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1440 technology",
+      "width": 1440,
+      "height": 936,
+      "y": 5467,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "2",
+          "top": -3135,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 407
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "2",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "1",
+          "top": 1657,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1440 project1",
+      "width": 1440,
+      "height": 936,
+      "y": 7233,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "2",
+          "top": -4901,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 407
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "2",
+          "top": -1353,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "1",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1440 project2",
+      "width": 1440,
+      "height": 936,
+      "y": 7997,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "2",
+          "top": -5665,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 407
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "2",
+          "top": -2117,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "2",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1440 project3",
+      "width": 1440,
+      "height": 936,
+      "y": 8760,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "2",
+          "top": -6428,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 407
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "2",
+          "top": -2880,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "3",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "2",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1440 project4",
+      "width": 1440,
+      "height": 936,
+      "y": 9524,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "2",
+          "top": -7192,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 407
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "2",
+          "top": -3644,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "4",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "3",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1440 project5",
+      "width": 1440,
+      "height": 936,
+      "y": 10288,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "2",
+          "top": -7956,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 407
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "2",
+          "top": -4408,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "5",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "4",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "project reverse",
+      "width": 1440,
+      "height": 936,
+      "y": 9938,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "2",
+          "top": -7606,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 407
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "2",
+          "top": -4058,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "4",
+          "top": 100,
+          "available": 670,
+          "visible": [
+            {
+              "page": "3",
+              "opacity": "0.132",
+              "height": 457
+            },
+            {
+              "page": "4",
+              "opacity": "0.4167",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fast past fixed chapters",
+      "width": 1440,
+      "height": 936,
+      "y": 13438,
+      "pins": 3,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": true,
+          "current": "2",
+          "top": -11106,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 407
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": true,
+          "current": "2",
+          "top": -7558,
+          "available": 670,
+          "visible": [
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 337
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": true,
+          "current": "5",
+          "top": -2737,
+          "available": 670,
+          "visible": [
+            {
+              "page": "4",
+              "opacity": "1",
+              "height": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "390 mobile",
+      "width": 390,
+      "height": 844,
+      "y": 4549,
+      "pins": 0,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": false,
+          "top": -3625,
+          "available": 951,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 426
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 460
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": false,
+          "top": -891,
+          "available": 933,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 434
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 434
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": false,
+          "top": 404,
+          "available": 2912,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 608
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 556
+            },
+            {
+              "page": "2",
+              "opacity": "1",
+              "height": 548
+            },
+            {
+              "page": "3",
+              "opacity": "1",
+              "height": 548
+            },
+            {
+              "page": "4",
+              "opacity": "1",
+              "height": 556
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "390 hero",
+      "width": 390,
+      "height": 844,
+      "y": 0,
+      "pins": 0,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": false,
+          "top": 924,
+          "available": 951,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 426
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 460
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": false,
+          "top": 3658,
+          "available": 933,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 434
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 434
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": false,
+          "top": 4953,
+          "available": 2912,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 608
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 556
+            },
+            {
+              "page": "2",
+              "opacity": "1",
+              "height": 548
+            },
+            {
+              "page": "3",
+              "opacity": "1",
+              "height": 548
+            },
+            {
+              "page": "4",
+              "opacity": "1",
+              "height": 556
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "390 mobile contact",
+      "width": 390,
+      "height": 844,
+      "y": 11047,
+      "pins": 0,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": false,
+          "top": -10123,
+          "available": 951,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 426
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 460
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": false,
+          "top": -7389,
+          "available": 933,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 434
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 434
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": false,
+          "top": -6094,
+          "available": 2912,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 608
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 556
+            },
+            {
+              "page": "2",
+              "opacity": "1",
+              "height": 548
+            },
+            {
+              "page": "3",
+              "opacity": "1",
+              "height": 548
+            },
+            {
+              "page": "4",
+              "opacity": "1",
+              "height": 556
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "768 tablet",
+      "width": 768,
+      "height": 936,
+      "y": 9290,
+      "pins": 0,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": false,
+          "top": -8244,
+          "available": 854,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 374
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 410
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": false,
+          "top": -5688,
+          "available": 770,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 350
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 350
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": false,
+          "top": -4566,
+          "available": 2070,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 358
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 358
+            },
+            {
+              "page": "2",
+              "opacity": "1",
+              "height": 358
+            },
+            {
+              "page": "3",
+              "opacity": "1",
+              "height": 358
+            },
+            {
+              "page": "4",
+              "opacity": "1",
+              "height": 358
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1440 reduced motion",
+      "width": 1440,
+      "height": 936,
+      "y": 8196,
+      "pins": 0,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": false,
+          "top": -7150,
+          "available": 900,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 366
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 469
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": false,
+          "top": -4796,
+          "available": 915,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 425
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 425
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": false,
+          "top": -3419,
+          "available": 2604,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 469
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 469
+            },
+            {
+              "page": "2",
+              "opacity": "1",
+              "height": 469
+            },
+            {
+              "page": "3",
+              "opacity": "1",
+              "height": 469
+            },
+            {
+              "page": "4",
+              "opacity": "1",
+              "height": 469
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "reduced confirmed",
+      "width": 1440,
+      "height": 936,
+      "y": 10269,
+      "pins": 0,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "philosophy",
+          "enhanced": false,
+          "top": -9223,
+          "available": 900,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 366
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 469
+            }
+          ]
+        },
+        {
+          "kind": "approach",
+          "enhanced": false,
+          "top": -6869,
+          "available": 915,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 425
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 425
+            }
+          ]
+        },
+        {
+          "kind": "projects",
+          "enhanced": false,
+          "top": -5492,
+          "available": 2604,
+          "visible": [
+            {
+              "page": "0",
+              "opacity": "1",
+              "height": 469
+            },
+            {
+              "page": "1",
+              "opacity": "1",
+              "height": 469
+            },
+            {
+              "page": "2",
+              "opacity": "1",
+              "height": 469
+            },
+            {
+              "page": "3",
+              "opacity": "1",
+              "height": 469
+            },
+            {
+              "page": "4",
+              "opacity": "1",
+              "height": 469
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "additional": {
+    "nativeViewport": {
+      "width": 1363,
+      "height": 936
+    },
+    "keyboardEnter": "Project next-page button advanced to page 2, stage top 100.21875 px",
+    "consoleErrors": [],
+    "motionDisabledBackground": {
+      "animation": "none",
+      "transform": "none"
+    },
+    "reload": "Content and three pin wrappers restored; navigation and next-page control usable"
+  }
+}

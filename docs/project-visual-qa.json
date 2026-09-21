@@ -1,0 +1,1501 @@
+{
+  "scope": "Chrome actual iframe viewports; not physical mobile devices or Safari. The first measurements include lazy images before scrolling; later records confirm all five loaded. CSS motion on static WebP, no embedded image animation.",
+  "records": [
+    {
+      "label": "390-initial",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 0,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned-compact",
+      "current": "1",
+      "available": 613,
+      "stageTop": 7928,
+      "pages": [
+        {
+          "height": 583,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "",
+          "loaded": false,
+          "natural": [
+            0,
+            0
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-table",
+          "state": "paused",
+          "transform": "matrix(1.035, 0, 0, 1.035, -2.05033, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 541,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "",
+          "loaded": false,
+          "natural": [
+            0,
+            0
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 560,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "",
+          "loaded": false,
+          "natural": [
+            0,
+            0
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -3.01395, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 560,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "",
+          "loaded": false,
+          "natural": [
+            0,
+            0
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 1.4553)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 541,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "",
+          "loaded": false,
+          "natural": [
+            0,
+            0
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-room",
+          "state": "paused",
+          "transform": "matrix(1.075, 0, 0, 1.075, 1.82535, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "390-day",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 8063,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned-compact",
+      "current": "1",
+      "available": 613,
+      "stageTop": 80,
+      "pages": [
+        {
+          "height": 583,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            204
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-table",
+          "state": "paused",
+          "transform": "matrix(1.035, 0, 0, 1.035, -2.05033, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 541,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "",
+          "loaded": false,
+          "natural": [
+            0,
+            0
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 560,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            204
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -3.01395, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 560,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            408
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 1.4553)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 541,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            229
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-room",
+          "state": "paused",
+          "transform": "matrix(1.075, 0, 0, 1.075, 1.82535, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "390-day-stable",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 8063,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned-compact",
+      "current": "1",
+      "available": 613,
+      "stageTop": 80,
+      "pages": [
+        {
+          "height": 583,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            204
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-table",
+          "state": "running",
+          "transform": "matrix(1.05498, 0, 0, 1.05498, 2.08654, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 541,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            306
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 560,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            204
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -3.01395, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 560,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            408
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 1.4553)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 541,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            229
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-room",
+          "state": "paused",
+          "transform": "matrix(1.075, 0, 0, 1.075, 1.82535, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "390-oimo-forward",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 9500,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned-compact",
+      "current": "3",
+      "available": 613,
+      "stageTop": 80,
+      "pages": [
+        {
+          "height": 583,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            204
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-table",
+          "state": "paused",
+          "transform": "matrix(1.05234, 0, 0, 1.05234, 1.53111, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 541,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            306
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 560,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            204
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-drift",
+          "state": "running",
+          "transform": "matrix(1.065, 0, 0, 1.065, -3.01395, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 560,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            408
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 1.4553)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 541,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            229
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-room",
+          "state": "paused",
+          "transform": "matrix(1.075, 0, 0, 1.075, 1.82535, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "390-asama",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 10936,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned-compact",
+      "current": "5",
+      "available": 613,
+      "stageTop": 80,
+      "pages": [
+        {
+          "height": 583,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            204
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-table",
+          "state": "paused",
+          "transform": "matrix(1.05234, 0, 0, 1.05234, 1.53111, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 541,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            306
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 560,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            204
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -3.01395, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 560,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            408
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 1.4553)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 541,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            229
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "project-room",
+          "state": "running",
+          "transform": "matrix(1.03093, 0, 0, 1.03093, -1.33559, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "390-reduced",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 7633,
+      "pins": 0,
+      "overflow": false,
+      "sceneStatus": "reduced-motion",
+      "available": 2889,
+      "stageTop": -2288,
+      "pages": [
+        {
+          "height": 584,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            204
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "none",
+          "state": "running",
+          "transform": "none",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 543,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            306
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "none",
+          "state": "running",
+          "transform": "none",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 562,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            204
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "none",
+          "state": "running",
+          "transform": "none",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 562,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            408
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "none",
+          "state": "running",
+          "transform": "none",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 543,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            306,
+            229
+          ],
+          "imageWidth": 283,
+          "imageHeight": 135,
+          "motion": "none",
+          "state": "running",
+          "transform": "none",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "390-short",
+      "viewport": [
+        390,
+        700
+      ],
+      "y": 10936,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned-compact",
+      "current": "5",
+      "available": 469,
+      "stageTop": -1354,
+      "pages": [
+        {
+          "height": 436,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            78
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-table",
+          "state": "paused",
+          "transform": "matrix(1.035, 0, 0, 1.035, -0.85491, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 394,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            117
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 413,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            78
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -1.2567, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 413,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            157
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 0.7965)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 412,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            88
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-room",
+          "state": "paused",
+          "transform": "matrix(1.075, 0, 0, 1.075, 0.7611, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "390-short-reading",
+      "viewport": [
+        390,
+        700
+      ],
+      "y": 6922,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned-compact",
+      "current": "1",
+      "available": 469,
+      "stageTop": 80,
+      "pages": [
+        {
+          "height": 436,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            78
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-table",
+          "state": "running",
+          "transform": "matrix(1.05463, 0, 0, 1.05463, 0.838539, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 394,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            117
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.02503, 0, 0, 1.02503, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 413,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            78
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -1.25669, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 413,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            157
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 0.796497)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 412,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            88
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-room",
+          "state": "paused",
+          "transform": "matrix(1.075, 0, 0, 1.075, 0.7611, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "390-scroll-forward",
+      "viewport": [
+        390,
+        700
+      ],
+      "y": 7422,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned-compact",
+      "current": "2",
+      "available": 469,
+      "stageTop": 80,
+      "pages": [
+        {
+          "height": 436,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            78
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-table",
+          "state": "paused",
+          "transform": "matrix(1.05497, 0, 0, 1.05497, 0.868522, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 394,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            117
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-taste",
+          "state": "running",
+          "transform": "matrix(1.04326, 0, 0, 1.04326, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 413,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            78
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -1.25669, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 413,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            157
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 0.796497)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 412,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            88
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-room",
+          "state": "paused",
+          "transform": "matrix(1.075, 0, 0, 1.075, 0.7611, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "390-scroll-reverse",
+      "viewport": [
+        390,
+        700
+      ],
+      "y": 6922,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned-compact",
+      "current": "1",
+      "available": 469,
+      "stageTop": 80,
+      "pages": [
+        {
+          "height": 436,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            78
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-table",
+          "state": "running",
+          "transform": "matrix(1.0355, 0, 0, 1.0355, -0.81278, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 394,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            117
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.04887, 0, 0, 1.04887, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 413,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            78
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -1.25669, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 413,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            157
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 0.796497)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 412,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            117,
+            88
+          ],
+          "imageWidth": 118,
+          "imageHeight": 74,
+          "motion": "project-room",
+          "state": "paused",
+          "transform": "matrix(1.075, 0, 0, 1.075, 0.7611, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "768-after-resize",
+      "viewport": [
+        768,
+        936
+      ],
+      "y": 6988,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned-compact",
+      "current": "1",
+      "available": 721,
+      "stageTop": 1602,
+      "pages": [
+        {
+          "height": 348,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            307,
+            204
+          ],
+          "imageWidth": 279,
+          "imageHeight": 133,
+          "motion": "project-table",
+          "state": "paused",
+          "transform": "matrix(1.035, 0, 0, 1.035, -2.01852, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 348,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            307,
+            307
+          ],
+          "imageWidth": 279,
+          "imageHeight": 133,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 348,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            307,
+            204
+          ],
+          "imageWidth": 279,
+          "imageHeight": 133,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -2.96719, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 348,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            307,
+            409
+          ],
+          "imageWidth": 279,
+          "imageHeight": 133,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 1.43269)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 348,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            307,
+            230
+          ],
+          "imageWidth": 279,
+          "imageHeight": 133,
+          "motion": "project-room",
+          "state": "paused",
+          "transform": "matrix(1.075, 0, 0, 1.075, 1.79703, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "1440-after-resize",
+      "viewport": [
+        1440,
+        936
+      ],
+      "y": 6697,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned",
+      "current": "1",
+      "available": 716,
+      "stageTop": 1709,
+      "pages": [
+        {
+          "height": 482,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            547,
+            364
+          ],
+          "imageWidth": 496,
+          "imageHeight": 236,
+          "motion": "project-table",
+          "state": "paused",
+          "transform": "matrix(1.035, 0, 0, 1.035, -3.59261, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 482,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            547,
+            547
+          ],
+          "imageWidth": 496,
+          "imageHeight": 236,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 482,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            547,
+            364
+          ],
+          "imageWidth": 496,
+          "imageHeight": 236,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -5.28107, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 482,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            547,
+            729
+          ],
+          "imageWidth": 496,
+          "imageHeight": 236,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 2.55015)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 482,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            547,
+            410
+          ],
+          "imageWidth": 496,
+          "imageHeight": 236,
+          "motion": "project-room",
+          "state": "paused",
+          "transform": "matrix(1.075, 0, 0, 1.075, 3.19839, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "1440-reading",
+      "viewport": [
+        1440,
+        936
+      ],
+      "y": 8547,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned",
+      "current": "1",
+      "available": 716,
+      "stageTop": 96,
+      "pages": [
+        {
+          "height": 482,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            547,
+            364
+          ],
+          "imageWidth": 496,
+          "imageHeight": 236,
+          "motion": "project-table",
+          "state": "running",
+          "transform": "matrix(1.05245, 0, 0, 1.05245, 2.72232, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 482,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            547,
+            547
+          ],
+          "imageWidth": 496,
+          "imageHeight": 236,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 482,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            547,
+            364
+          ],
+          "imageWidth": 496,
+          "imageHeight": 236,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -5.28107, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 482,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            547,
+            729
+          ],
+          "imageWidth": 496,
+          "imageHeight": 236,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 2.55015)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 482,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            547,
+            410
+          ],
+          "imageWidth": 496,
+          "imageHeight": 236,
+          "motion": "project-room",
+          "state": "paused",
+          "transform": "matrix(1.075, 0, 0, 1.075, 3.19839, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    },
+    {
+      "label": "1366-short",
+      "viewport": [
+        1366,
+        650
+      ],
+      "y": 8328,
+      "pins": 4,
+      "overflow": false,
+      "sceneStatus": "ready",
+      "mode": "pinned-compact",
+      "current": "5",
+      "available": 430,
+      "stageTop": 96,
+      "pages": [
+        {
+          "height": 390,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/day-840.webp",
+          "loaded": true,
+          "natural": [
+            519,
+            346
+          ],
+          "imageWidth": 470,
+          "imageHeight": 168,
+          "motion": "project-table",
+          "state": "paused",
+          "transform": "matrix(1.035, 0, 0, 1.035, -3.40673, 0)",
+          "caption": "構想イメージ"
+        },
+        {
+          "height": 390,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/food-840.webp",
+          "loaded": true,
+          "natural": [
+            519,
+            519
+          ],
+          "imageWidth": 470,
+          "imageHeight": 168,
+          "motion": "project-taste",
+          "state": "paused",
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "caption": "料理イメージ"
+        },
+        {
+          "height": 390,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/oimo-840.webp",
+          "loaded": true,
+          "natural": [
+            519,
+            346
+          ],
+          "imageWidth": 470,
+          "imageHeight": 168,
+          "motion": "project-drift",
+          "state": "paused",
+          "transform": "matrix(1.065, 0, 0, 1.065, -5.00783, 0)",
+          "caption": "OIMO cafe 公式写真"
+        },
+        {
+          "height": 390,
+          "visible": "hidden",
+          "opacity": "0",
+          "inert": true,
+          "src": "http://terminal.local:4173/images/projects/resort-840.webp",
+          "loaded": true,
+          "natural": [
+            519,
+            692
+          ],
+          "imageWidth": 470,
+          "imageHeight": 168,
+          "motion": "project-garden",
+          "state": "paused",
+          "transform": "matrix(1.08, 0, 0, 1.08, 0, 1.81356)",
+          "caption": "施設の庭／提供写真"
+        },
+        {
+          "height": 390,
+          "visible": "visible",
+          "opacity": "1",
+          "inert": false,
+          "src": "http://terminal.local:4173/images/projects/asama-840.webp",
+          "loaded": true,
+          "natural": [
+            519,
+            389
+          ],
+          "imageWidth": 470,
+          "imageHeight": 168,
+          "motion": "project-room",
+          "state": "running",
+          "transform": "matrix(1.02751, 0, 0, 1.02751, -2.60744, 0)",
+          "caption": "館内ラウンジ／提供写真"
+        }
+      ]
+    }
+  ]
+}

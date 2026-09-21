@@ -1,0 +1,1157 @@
+{
+  "date": "2026-09-20",
+  "environment": "Chrome, managed preview, iframe viewport sizing; no physical mobile device",
+  "checks": {
+    "lint": "passed",
+    "typecheck": "passed",
+    "build": "passed; release build repeated after removing temporary harness",
+    "metadata": "index/follow and canonical verified in rendered DOM",
+    "realDevices": "not tested",
+    "otherBrowsers": "not tested",
+    "performanceScore": "not measured",
+    "osReducedMotionToggle": "code reviewed; actual OS toggle not tested",
+    "inPageReducedMotion": "tested: zero pins, no hidden pages, static complete line",
+    "productionRuntime": "publication service result is used for deployment; visual checks use managed preview"
+  },
+  "measurements": [
+    {
+      "label": "mobile-first",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 0,
+      "hash": "",
+      "status": "ready",
+      "overflow": 0,
+      "pins": 6,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 80,
+          "window": 656,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 1854,
+          "window": 656,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 5618,
+          "window": 656,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 7928,
+          "window": 613,
+          "heights": [
+            583,
+            528,
+            560,
+            560,
+            528
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 12437,
+          "window": 640,
+          "heights": [
+            308,
+            331
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 16946,
+          "window": 638,
+          "heights": [
+            389,
+            468
+          ]
+        }
+      ],
+      "thread": [
+        {
+          "d": "M 10 101 V 241",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 1850.5 V 1990.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 3952.5 V 4092.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 5400.5 V 5540.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 7711.5 V 7851.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 12220.5 V 12360.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 14487 V 14627",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 16241.5 V 16381.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 16967 V 17107",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        }
+      ],
+      "menu": {
+        "hidden": true,
+        "height": 0,
+        "total": 0,
+        "bottom": 0,
+        "overflow": "auto"
+      },
+      "meta": {
+        "title": "ドレッドノート株式会社｜人の力を、続く力に。",
+        "robots": "index, follow",
+        "canonical": "https://dreadnought-corporate.linkist39.chatgpt.site/"
+      },
+      "hiddenPages": 9,
+      "broken": []
+    },
+    {
+      "label": "mobile-people",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 12981,
+      "hash": "#people",
+      "status": "ready",
+      "overflow": 0,
+      "pins": 6,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "page": "2",
+          "top": -11944,
+          "window": 656,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "page": "2",
+          "top": -9870,
+          "window": 656,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "page": "2",
+          "top": -6106,
+          "window": 656,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "page": "5",
+          "top": -1642,
+          "window": 613,
+          "heights": [
+            583,
+            528,
+            560,
+            560,
+            528
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 80,
+          "window": 640,
+          "heights": [
+            308,
+            331
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 3965,
+          "window": 638,
+          "heights": [
+            389,
+            468
+          ]
+        }
+      ],
+      "thread": [
+        {
+          "d": "M 10 101 V 241",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 1850.5 V 1990.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 3952.5 V 4092.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 5400.5 V 5540.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 7711.5 V 7851.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 12220.5 V 12360.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 14487 V 14627",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 16241.5 V 16381.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 16967 V 17107",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        }
+      ],
+      "menu": {
+        "hidden": true,
+        "height": 0,
+        "total": 0,
+        "bottom": 0,
+        "overflow": "auto"
+      },
+      "meta": {
+        "title": "ドレッドノート株式会社｜人の力を、続く力に。",
+        "robots": "index, follow",
+        "canonical": "https://dreadnought-corporate.linkist39.chatgpt.site/"
+      },
+      "hiddenPages": 9,
+      "broken": []
+    },
+    {
+      "label": "mobile-reduced",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 8641,
+      "hash": "#people",
+      "status": "reduced-motion",
+      "overflow": 0,
+      "pins": 0,
+      "books": [
+        {
+          "kind": "opening",
+          "top": -8561,
+          "window": 1028,
+          "heights": [
+            464,
+            464
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "top": -7382,
+          "window": 951,
+          "heights": [
+            426,
+            460
+          ]
+        },
+        {
+          "kind": "approach",
+          "top": -4616,
+          "window": 933,
+          "heights": [
+            434,
+            434
+          ]
+        },
+        {
+          "kind": "projects",
+          "top": -3296,
+          "window": 2863,
+          "heights": [
+            584,
+            530,
+            562,
+            562,
+            530
+          ]
+        },
+        {
+          "kind": "people",
+          "top": 46,
+          "window": 804,
+          "heights": [
+            358,
+            381
+          ]
+        },
+        {
+          "kind": "closing",
+          "top": 3410,
+          "window": 982,
+          "heights": [
+            439,
+            478
+          ]
+        }
+      ],
+      "thread": [
+        {
+          "d": "M 10 101 V 241",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 1262.5 V 1402.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 2359.5 V 2499.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 3808.5 V 3948.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 5128.5 V 5268.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 8470.5 V 8610.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 9592 V 9732",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 11346.5 V 11486.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 12072 V 12212",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        }
+      ],
+      "menu": {
+        "hidden": true,
+        "height": 0,
+        "total": 0,
+        "bottom": 0,
+        "overflow": "auto"
+      },
+      "meta": {
+        "title": "ドレッドノート株式会社｜人の力を、続く力に。",
+        "robots": "index, follow",
+        "canonical": "https://dreadnought-corporate.linkist39.chatgpt.site/"
+      },
+      "hiddenPages": 0,
+      "broken": []
+    },
+    {
+      "label": "short-menu",
+      "viewport": [
+        844,
+        390
+      ],
+      "y": 7229,
+      "hash": "#people",
+      "status": "ready",
+      "overflow": 0,
+      "pins": 0,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "flow-content-overflow",
+          "top": -7133,
+          "window": 1120,
+          "heights": [
+            508,
+            512
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "flow-content-overflow",
+          "top": -5791,
+          "window": 691,
+          "heights": [
+            287,
+            334
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "flow-content-overflow",
+          "top": -3374,
+          "window": 630,
+          "heights": [
+            264,
+            296
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "flow-content-overflow",
+          "top": -2336,
+          "window": 1904,
+          "heights": [
+            325,
+            325,
+            325,
+            325,
+            325
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "flow-content-overflow",
+          "top": 46,
+          "window": 919,
+          "heights": [
+            388,
+            461
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "flow-content-overflow",
+          "top": 2767,
+          "window": 943,
+          "heights": [
+            459,
+            414
+          ]
+        }
+      ],
+      "thread": [],
+      "menu": {
+        "hidden": false,
+        "height": 278,
+        "total": 431,
+        "bottom": 370,
+        "overflow": "auto"
+      },
+      "meta": {
+        "title": "ドレッドノート株式会社｜人の力を、続く力に。",
+        "robots": "index, follow",
+        "canonical": "https://dreadnought-corporate.linkist39.chatgpt.site/"
+      },
+      "hiddenPages": 0,
+      "broken": []
+    },
+    {
+      "label": "desktop-layout",
+      "viewport": [
+        1440,
+        936
+      ],
+      "y": 10125,
+      "hash": "#contact",
+      "status": "ready",
+      "overflow": 0,
+      "pins": 6,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned",
+          "page": "2",
+          "top": -8977,
+          "window": 716,
+          "heights": [
+            501,
+            476
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned",
+          "page": "2",
+          "top": -6634,
+          "window": 716,
+          "heights": [
+            301,
+            407
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned",
+          "page": "2",
+          "top": -2977,
+          "window": 716,
+          "heights": [
+            337,
+            337
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned",
+          "page": "3",
+          "top": 96,
+          "window": 716,
+          "heights": [
+            482,
+            482,
+            482,
+            482,
+            482
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "pinned",
+          "page": "1",
+          "top": 3241,
+          "window": 704,
+          "heights": [
+            399,
+            484
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "pinned",
+          "page": "1",
+          "top": 7025,
+          "window": 702,
+          "heights": [
+            454,
+            401
+          ]
+        }
+      ],
+      "thread": [],
+      "menu": {
+        "hidden": true,
+        "height": 0,
+        "total": 0,
+        "bottom": 0,
+        "overflow": "auto"
+      },
+      "meta": {
+        "title": "ドレッドノート株式会社｜人の力を、続く力に。",
+        "robots": "index, follow",
+        "canonical": "https://dreadnought-corporate.linkist39.chatgpt.site/"
+      },
+      "hiddenPages": 9,
+      "broken": []
+    },
+    {
+      "label": "desktop-contact",
+      "viewport": [
+        1440,
+        936
+      ],
+      "y": 17290,
+      "hash": "#contact",
+      "status": "ready",
+      "overflow": 0,
+      "pins": 6,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned",
+          "page": "2",
+          "top": -16142,
+          "window": 716,
+          "heights": [
+            501,
+            476
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned",
+          "page": "2",
+          "top": -13799,
+          "window": 716,
+          "heights": [
+            301,
+            407
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned",
+          "page": "2",
+          "top": -10142,
+          "window": 716,
+          "heights": [
+            337,
+            337
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned",
+          "page": "5",
+          "top": -5136,
+          "window": 716,
+          "heights": [
+            482,
+            482,
+            482,
+            482,
+            482
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "pinned",
+          "page": "2",
+          "top": -2543,
+          "window": 704,
+          "heights": [
+            399,
+            484
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "pinned",
+          "page": "1",
+          "top": 96,
+          "window": 702,
+          "heights": [
+            454,
+            401
+          ]
+        }
+      ],
+      "thread": [],
+      "menu": {
+        "hidden": true,
+        "height": 0,
+        "total": 0,
+        "bottom": 0,
+        "overflow": "auto"
+      },
+      "meta": {
+        "title": "ドレッドノート株式会社｜人の力を、続く力に。",
+        "robots": "index, follow",
+        "canonical": "https://dreadnought-corporate.linkist39.chatgpt.site/"
+      },
+      "hiddenPages": 9,
+      "broken": []
+    },
+    {
+      "label": "tablet-contact",
+      "viewport": [
+        768,
+        936
+      ],
+      "y": 17744,
+      "hash": "#contact",
+      "status": "ready",
+      "overflow": 0,
+      "pins": 6,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "page": "2",
+          "top": -16588,
+          "window": 722,
+          "heights": [
+            418,
+            422
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "page": "2",
+          "top": -14229,
+          "window": 722,
+          "heights": [
+            287,
+            365
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "page": "2",
+          "top": -10308,
+          "window": 722,
+          "heights": [
+            264,
+            296
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "page": "5",
+          "top": -5378,
+          "window": 721,
+          "heights": [
+            348,
+            348,
+            348,
+            348,
+            348
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "pinned-compact",
+          "page": "2",
+          "top": -2788,
+          "window": 710,
+          "heights": [
+            338,
+            423
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 90,
+          "window": 708,
+          "heights": [
+            368,
+            371
+          ]
+        }
+      ],
+      "thread": [],
+      "menu": {
+        "hidden": true,
+        "height": 0,
+        "total": 0,
+        "bottom": 0,
+        "overflow": "auto"
+      },
+      "meta": {
+        "title": "ドレッドノート株式会社｜人の力を、続く力に。",
+        "robots": "index, follow",
+        "canonical": "https://dreadnought-corporate.linkist39.chatgpt.site/"
+      },
+      "hiddenPages": 9,
+      "broken": []
+    },
+    {
+      "label": "mobile-contact-before-reverse",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 16492,
+      "hash": "#contact",
+      "status": "ready",
+      "overflow": 0,
+      "pins": 6,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "page": "2",
+          "top": -15455,
+          "window": 656,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "page": "2",
+          "top": -13381,
+          "window": 656,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "page": "2",
+          "top": -9617,
+          "window": 656,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "page": "5",
+          "top": -5153,
+          "window": 613,
+          "heights": [
+            583,
+            528,
+            560,
+            560,
+            528
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "pinned-compact",
+          "page": "2",
+          "top": -2798,
+          "window": 640,
+          "heights": [
+            308,
+            331
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 454,
+          "window": 638,
+          "heights": [
+            389,
+            468
+          ]
+        }
+      ],
+      "thread": [
+        {
+          "d": "M 10 101 V 241",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 1850.5 V 1990.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 3952.5 V 4092.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 5400.5 V 5540.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 7711.5 V 7851.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 12220.5 V 12360.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 14487 V 14627",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 16241.5 V 16381.5",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 16967 V 17107",
+          "length": 140,
+          "offset": 74.84,
+          "visibility": "visible"
+        }
+      ],
+      "menu": {
+        "hidden": true,
+        "height": 0,
+        "total": 0,
+        "bottom": 0,
+        "overflow": "auto"
+      },
+      "meta": {
+        "title": "ドレッドノート株式会社｜人の力を、続く力に。",
+        "robots": "index, follow",
+        "canonical": "https://dreadnought-corporate.linkist39.chatgpt.site/"
+      },
+      "hiddenPages": 9,
+      "broken": []
+    },
+    {
+      "label": "mobile-reverse-to-opening",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 156,
+      "hash": "#top",
+      "status": "ready",
+      "overflow": 0,
+      "pins": 6,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 80,
+          "window": 656,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 1698,
+          "window": 656,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 5462,
+          "window": 656,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 7772,
+          "window": 613,
+          "heights": [
+            583,
+            528,
+            560,
+            560,
+            528
+          ]
+        },
+        {
+          "kind": "people",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 12281,
+          "window": 640,
+          "heights": [
+            308,
+            331
+          ]
+        },
+        {
+          "kind": "closing",
+          "mode": "pinned-compact",
+          "page": "1",
+          "top": 16790,
+          "window": 638,
+          "heights": [
+            389,
+            468
+          ]
+        }
+      ],
+      "thread": [
+        {
+          "d": "M 10 101 V 241",
+          "length": 140,
+          "offset": 0,
+          "visibility": "visible"
+        },
+        {
+          "d": "M 10 1850.5 V 1990.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 3952.5 V 4092.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 5400.5 V 5540.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 7711.5 V 7851.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 12220.5 V 12360.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 14487 V 14627",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 16241.5 V 16381.5",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        },
+        {
+          "d": "M 10 16967 V 17107",
+          "length": 140,
+          "offset": 140,
+          "visibility": "hidden"
+        }
+      ],
+      "menu": {
+        "hidden": true,
+        "height": 0,
+        "total": 0,
+        "bottom": 0,
+        "overflow": "auto"
+      },
+      "meta": {
+        "title": "ドレッドノート株式会社｜人の力を、続く力に。",
+        "robots": "index, follow",
+        "canonical": "https://dreadnought-corporate.linkist39.chatgpt.site/"
+      },
+      "hiddenPages": 9,
+      "broken": []
+    }
+  ]
+}

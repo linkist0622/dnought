@@ -1,0 +1,1213 @@
+{
+  "before": [
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "pins": 0,
+      "mode": "site motion-enabled"
+    },
+    {
+      "viewport": [
+        1366,
+        650
+      ],
+      "pins": 0,
+      "mode": "site motion-enabled"
+    }
+  ],
+  "after": [
+    {
+      "label": "390 initial fixed",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 215,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 80,
+          "available": 656,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 1939,
+          "available": 656,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 5703,
+          "available": 656,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 8013,
+          "available": 613,
+          "heights": [
+            431,
+            380,
+            372,
+            372,
+            380
+          ]
+        }
+      ]
+    },
+    {
+      "label": "390 opening after scroll",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 715,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": 80,
+          "available": 656,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 1439,
+          "available": 656,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 5203,
+          "available": 656,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 7513,
+          "available": 613,
+          "heights": [
+            431,
+            380,
+            372,
+            372,
+            380
+          ]
+        }
+      ]
+    },
+    {
+      "label": "390 opening reverse",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 215,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 80,
+          "available": 656,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 1939,
+          "available": 656,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 5703,
+          "available": 656,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 8013,
+          "available": 613,
+          "heights": [
+            431,
+            380,
+            372,
+            372,
+            380
+          ]
+        }
+      ]
+    },
+    {
+      "label": "390 philosophy",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 1989,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -952,
+          "available": 656,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 80,
+          "available": 656,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 3629,
+          "available": 656,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 5939,
+          "available": 613,
+          "heights": [
+            431,
+            380,
+            372,
+            372,
+            380
+          ]
+        }
+      ]
+    },
+    {
+      "label": "390 mission complete",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 2708,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -1671,
+          "available": 656,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": 80,
+          "available": 656,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 2910,
+          "available": 656,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 5220,
+          "available": 613,
+          "heights": [
+            431,
+            380,
+            372,
+            372,
+            380
+          ]
+        }
+      ]
+    },
+    {
+      "label": "390x700 all chapters fit",
+      "viewport": [
+        390,
+        700
+      ],
+      "y": 2708,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -1855,
+          "available": 512,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -167,
+          "available": 512,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 2196,
+          "available": 512,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 4120,
+          "available": 469,
+          "heights": [
+            431,
+            380,
+            372,
+            372,
+            380
+          ]
+        }
+      ]
+    },
+    {
+      "label": "390x700 project full page",
+      "viewport": [
+        390,
+        700
+      ],
+      "y": 6922,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -6069,
+          "available": 512,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -4381,
+          "available": 512,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -1003,
+          "available": 512,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 80,
+          "available": 469,
+          "heights": [
+            431,
+            380,
+            372,
+            372,
+            380
+          ]
+        }
+      ]
+    },
+    {
+      "label": "mobile-short-project-third",
+      "viewport": [
+        390,
+        700
+      ],
+      "y": 8082,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -7229,
+          "available": 512,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -5541,
+          "available": 512,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -2163,
+          "available": 512,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "3",
+          "top": 80,
+          "available": 469,
+          "heights": [
+            431,
+            380,
+            372,
+            372,
+            380
+          ]
+        }
+      ]
+    },
+    {
+      "label": "laptop-short-after-fix",
+      "viewport": [
+        1366,
+        650
+      ],
+      "y": 7814,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -7032,
+          "available": 430,
+          "heights": [
+            418,
+            422
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -5456,
+          "available": 430,
+          "heights": [
+            220,
+            298
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -2570,
+          "available": 430,
+          "heights": [
+            247,
+            247
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "4",
+          "top": 96,
+          "available": 430,
+          "heights": [
+            357,
+            357,
+            357,
+            357,
+            357
+          ]
+        }
+      ]
+    },
+    {
+      "label": "laptop-opening-scroll",
+      "viewport": [
+        1366,
+        650
+      ],
+      "y": 611,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": 96,
+          "available": 430,
+          "heights": [
+            418,
+            422
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 847,
+          "available": 430,
+          "heights": [
+            220,
+            298
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 3733,
+          "available": 430,
+          "heights": [
+            247,
+            247
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 5601,
+          "available": 430,
+          "heights": [
+            357,
+            357,
+            357,
+            357,
+            357
+          ]
+        }
+      ]
+    },
+    {
+      "label": "tablet-after-fix",
+      "viewport": [
+        768,
+        936
+      ],
+      "y": 808,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": 90,
+          "available": 722,
+          "heights": [
+            418,
+            422
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 1316,
+          "available": 722,
+          "heights": [
+            287,
+            365
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 5237,
+          "available": 722,
+          "heights": [
+            264,
+            296
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "1",
+          "top": 7782,
+          "available": 721,
+          "heights": [
+            311,
+            289,
+            289,
+            289,
+            289
+          ]
+        }
+      ]
+    },
+    {
+      "label": "desktop-after-fix",
+      "viewport": [
+        1440,
+        936
+      ],
+      "y": 796,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned",
+          "current": "2",
+          "top": 96,
+          "available": 716,
+          "heights": [
+            501,
+            476
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned",
+          "current": "1",
+          "top": 1314,
+          "available": 716,
+          "heights": [
+            301,
+            407
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned",
+          "current": "1",
+          "top": 4971,
+          "available": 716,
+          "heights": [
+            337,
+            337
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned",
+          "current": "1",
+          "top": 7610,
+          "available": 716,
+          "heights": [
+            457,
+            457,
+            457,
+            457,
+            457
+          ]
+        }
+      ]
+    },
+    {
+      "label": "desktop-project-fourth",
+      "viewport": [
+        1440,
+        936
+      ],
+      "y": 10914,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned",
+          "current": "2",
+          "top": -9766,
+          "available": 716,
+          "heights": [
+            501,
+            476
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned",
+          "current": "2",
+          "top": -7423,
+          "available": 716,
+          "heights": [
+            301,
+            407
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned",
+          "current": "2",
+          "top": -3766,
+          "available": 716,
+          "heights": [
+            337,
+            337
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned",
+          "current": "4",
+          "top": 96,
+          "available": 716,
+          "heights": [
+            457,
+            457,
+            457,
+            457,
+            457
+          ]
+        }
+      ]
+    },
+    {
+      "label": "reduced-mid-project",
+      "viewport": [
+        1440,
+        936
+      ],
+      "y": 10914,
+      "mode": "site reduced-motion",
+      "pins": 0,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "top": -10818,
+          "available": 1317,
+          "heights": [
+            608,
+            608
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "top": -9279,
+          "available": 900,
+          "heights": [
+            366,
+            469
+          ]
+        },
+        {
+          "kind": "approach",
+          "top": -6869,
+          "available": 915,
+          "heights": [
+            425,
+            425
+          ]
+        },
+        {
+          "kind": "projects",
+          "top": -5436,
+          "available": 2604,
+          "heights": [
+            469,
+            469,
+            469,
+            469,
+            469
+          ]
+        }
+      ]
+    },
+    {
+      "label": "toggle-position-before",
+      "viewport": [
+        1440,
+        936
+      ],
+      "y": 10914,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned",
+          "current": "2",
+          "top": -9766,
+          "available": 716,
+          "heights": [
+            501,
+            476
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned",
+          "current": "2",
+          "top": -7423,
+          "available": 716,
+          "heights": [
+            301,
+            407
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned",
+          "current": "2",
+          "top": -3766,
+          "available": 716,
+          "heights": [
+            337,
+            337
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned",
+          "current": "4",
+          "top": 96,
+          "available": 716,
+          "heights": [
+            457,
+            457,
+            457,
+            457,
+            457
+          ]
+        }
+      ]
+    },
+    {
+      "label": "toggle-position-off-fixed",
+      "viewport": [
+        1440,
+        936
+      ],
+      "y": 7001,
+      "mode": "site reduced-motion",
+      "pins": 0,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "top": -6905,
+          "available": 1317,
+          "heights": [
+            608,
+            608
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "top": -5366,
+          "available": 900,
+          "heights": [
+            366,
+            469
+          ]
+        },
+        {
+          "kind": "approach",
+          "top": -2956,
+          "available": 915,
+          "heights": [
+            425,
+            425
+          ]
+        },
+        {
+          "kind": "projects",
+          "top": -1523,
+          "available": 2604,
+          "heights": [
+            469,
+            469,
+            469,
+            469,
+            469
+          ]
+        }
+      ]
+    },
+    {
+      "label": "toggle-position-on-fixed",
+      "viewport": [
+        1440,
+        936
+      ],
+      "y": 10914,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned",
+          "current": "2",
+          "top": -9766,
+          "available": 716,
+          "heights": [
+            501,
+            476
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned",
+          "current": "2",
+          "top": -7423,
+          "available": 716,
+          "heights": [
+            301,
+            407
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned",
+          "current": "2",
+          "top": -3766,
+          "available": 716,
+          "heights": [
+            337,
+            337
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned",
+          "current": "4",
+          "top": 96,
+          "available": 716,
+          "heights": [
+            457,
+            457,
+            457,
+            457,
+            457
+          ]
+        }
+      ]
+    },
+    {
+      "label": "reload-mid-page",
+      "viewport": [
+        1440,
+        936
+      ],
+      "y": 8547,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned",
+          "current": "2",
+          "top": -7399,
+          "available": 716,
+          "heights": [
+            501,
+            476
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned",
+          "current": "2",
+          "top": -5056,
+          "available": 716,
+          "heights": [
+            301,
+            407
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned",
+          "current": "2",
+          "top": -1399,
+          "available": 716,
+          "heights": [
+            337,
+            337
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned",
+          "current": "1",
+          "top": 96,
+          "available": 716,
+          "heights": [
+            457,
+            457,
+            457,
+            457,
+            457
+          ]
+        }
+      ]
+    },
+    {
+      "label": "mobile-contact-navigation",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 8782,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -7745,
+          "available": 656,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -5671,
+          "available": 656,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -1907,
+          "available": 656,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": 80,
+          "available": 613,
+          "heights": [
+            431,
+            380,
+            372,
+            372,
+            380
+          ]
+        }
+      ]
+    },
+    {
+      "label": "mobile-contact-after-resize-settled",
+      "viewport": [
+        390,
+        844
+      ],
+      "y": 15197,
+      "mode": "site motion-enabled",
+      "pins": 4,
+      "overflow": false,
+      "books": [
+        {
+          "kind": "opening",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -14160,
+          "available": 656,
+          "heights": [
+            353,
+            369
+          ]
+        },
+        {
+          "kind": "philosophy",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -12086,
+          "available": 656,
+          "heights": [
+            355,
+            384
+          ]
+        },
+        {
+          "kind": "approach",
+          "mode": "pinned-compact",
+          "current": "2",
+          "top": -8322,
+          "available": 656,
+          "heights": [
+            405,
+            405
+          ]
+        },
+        {
+          "kind": "projects",
+          "mode": "pinned-compact",
+          "current": "5",
+          "top": -3858,
+          "available": 613,
+          "heights": [
+            431,
+            380,
+            372,
+            372,
+            380
+          ]
+        }
+      ]
+    }
+  ],
+  "context": {
+    "browser": "Chrome cloud browser",
+    "viewports": "Same-origin iframe viewport sizes, not physical phones or mobile UA",
+    "rootCause": "v5 gated fixed stages at min-width 1101px AND min-height 740px; compact screens had zero pins despite motion ON.",
+    "productionInspection": "Native Sites v5 deployment succeeded and no recent worker errors. Direct live HTML fetch returned 403; no independent live DOM inspection.",
+    "secondaryFix": "Manual motion toggle now preserves current reading page. Records reduced-mid-project and mobile-contact-navigation are intermediate issues; later labeled records show corrections or settled resize navigation."
+  }
+}
