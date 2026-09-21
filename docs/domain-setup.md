@@ -1,35 +1,31 @@
-# d-nought.online 接続手順
+# d-nought.co.jp 接続記録
 
-本番用ドメインとして、サイト側の登録は完了しています。現在はDNS検証・HTTPS証明書の有効化待ちです。ドメイン登録事業者やDNS管理画面への接続権限はこの作業環境では確認できていません。
+正式URLは **https://d-nought.co.jp/** です。2026-09-21 02:39 UTC、Sitesの接続確認でドメイン・配信先・HTTPS証明書のすべてがactiveとなったことを確認しました。ドメイン管理はお名前.comです。
 
-## DNS管理画面に登録する内容
+当初の候補d-nought.onlineから、ユーザーが指定・設定したd-nought.co.jpへ切り替えています。認証用TXTはドメインごとに異なります。
 
-対象ゾーンは **d-nought.online** です。TTLは管理画面の初期値、または3600秒を使います。
+## 設定したDNSレコード
 
-| 種別 | ホスト名（d-nought.onlineより前の部分） | 値 |
+対象ゾーンは **d-nought.co.jp**。お名前.comではAのホスト名を空欄にし、TXTのホスト名には下表の短い名前を入力します。TTLは3600秒、状態は有効です。
+
+| TYPE | ホスト名 | VALUE |
 |---|---|---|
-| A | @ または空欄 | `162.159.143.30` |
-| A | @ または空欄 | `172.66.3.26` |
-| TXT | _openai-site-verification | `openai-site-verification=21fgbc-lmaH6LntUKRWrcbbUNpp9xA1wVz7MOoRQsU0` |
-| TXT | _cf-custom-hostname | `4bb2f38a-5eca-4954-b44f-def6d2b84b64` |
+| A | 空欄 | `162.159.143.30` |
+| A | 空欄 | `172.66.3.26` |
+| TXT | _openai-site-verification | `openai-site-verification=wfpmNenKL7dcr78J00VRiLJ5zCDxZyqXO87tOe-Nupc` |
+| TXT | _cf-custom-hostname | `249a824c-3a52-40ff-a7a1-9705274e5c5e` |
 
-ホスト名欄にドメインが自動で付く画面では、表の短い名前だけを入力してください。完全な名前を求める画面では、TXTの末尾に `.d-nought.online` を付けます。Aレコード2件は両方登録します。
+TXTは接続時に発行された値です。認証後も設定を保持し、再設定時にサービス側から新しい値が発行された場合はその案内に従います。www付きURLは今回登録していません。問い合わせ先は `www@d-nought.co.jp` です。
 
-www付きURLは今回登録していません。メールは従来の `www@d-nought.co.jp` を引き続き使用します。このWebサイトの接続にMXレコードの変更は必要ありません。
+## サイトの正式URL設定
 
-## 登録後
+`app/site-meta.ts` の `url` を `https://d-nought.co.jp` とし、canonical・OGP・robots・sitemapへ共通で適用します。将来別のドメインへ移す際は、先にサイト側の登録、DNS、HTTPSの有効化を確認してからURLを変更し、ビルド・公開を行います。
 
-1. 上記レコードを保存する。
-2. Sitesでドメイン検証を再実行し、ドメインとHTTPSがactiveになるまで確認する。追加検証レコードが返った場合はその値に従う。
-3. `https://d-nought.online/` でサイト表示を確認する。
-4. `app/site-meta.ts` の `url` を `https://d-nought.online` に変更し、型チェック・ビルド後に再公開する。
-5. canonical、robots.txt、sitemap.xmlが新ドメインになったことを確認する。
+接続状態はSitesの検証結果に基づきます。外部のすべてのDNSキャッシュや実機環境での到達を確認したものではありません。
 
-接続が確認できるまでは、現在の公開URLとcanonicalを維持します。DNSを登録しただけで切り替え完了とは扱いません。
+## 管理先
 
-## 現在の管理先
-
+- 正式公開先：https://d-nought.co.jp/
 - ソース：https://github.com/linkist0622/dnought
-- 公開サイト：https://dreadnought-corporate.linkist39.chatgpt.site/
-- 指定ドメイン：https://d-nought.online/
-
+- Sites標準URL：https://dreadnought-corporate.linkist39.chatgpt.site/
+- お名前.com操作ガイド：https://www.onamae.com/guide/p/70
