@@ -11,9 +11,11 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website", locale: "ja_JP", url: "/", siteName: siteMeta.name,
     title: siteMeta.title, description: siteMeta.description,
+    images: [{ ...siteMeta.socialImage, type: "image/png" }],
   },
   twitter: {
-    card: "summary", title: siteMeta.title, description: siteMeta.description,
+    card: "summary_large_image", title: siteMeta.title, description: siteMeta.description,
+    images: [{ url: siteMeta.socialImage.url, alt: siteMeta.socialImage.alt }],
   },
   icons: {
     icon: "/favicon.svg",
